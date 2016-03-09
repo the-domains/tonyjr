@@ -1,0 +1,28 @@
+name: 'Tony Shaw, Jr'
+favicon: null
+layout_spectrum: 0.1143154795281589
+typography_spectrum: 0.9107038243673742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.0758640612475574
+  lightness: 0.28729586908593774
+  saturation: 0.7166505372151732
+  rhythmicContrast: 0.32116522220894694
+purpose: []
